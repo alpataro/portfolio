@@ -38,6 +38,10 @@ In addition to the above solutions, you will find various other projects in this
 
 I also share my thoughts and experiences through blog posts and articles. Check out the [blog](blog/) section to read about various topics related to project management, software development, and more.
 
+## My Resume
+
+You can download my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
+
 ## Contact Me
 
 If you have any inquiries or would like to get in touch, please feel free to reach out to me at [aydin.gunes@alpataro.com](mailto:aydin.gunes@alpataro.com).
