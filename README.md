@@ -34,8 +34,8 @@ For more details about  Custom Website Design and Development, click [here](proj
 
 In addition to the above solutions, you will find various other projects in this repository or as an external link to the project involved me that highlights my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
  
-- **IoT**: [IoT Project](projects/iot/README.md)
-- **B2B Integration**: [B2B Integration Project](projects/b2b/README.md)
+- **Solution 3: IoT**: [IoT Project](projects/iot/README.md)
+- **Solution 4: B2B Integration**: [B2B Integration Project](projects/b2b/README.md)
 
 ## [Turkish Airlines](https://thy.com/) Projects
 
