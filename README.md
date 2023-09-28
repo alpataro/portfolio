@@ -6,6 +6,12 @@ Welcome to my portfolio! Here, you'll find a collection of projects and articles
 
 I am a dedicated professional with a passion for project management and software development. With two decades of experience in various industries, I have successfully delivered a wide range of projects and honed my skills in managing resources efficiently.
 
+## Solutions from Alpataro Technology
+
+Visit my official website **[AlpataroTechnology.com](https://www.alpatarotechnology.com)** to explore a range of innovative solutions and services offered by Alpataro Technology, including:
+
+- **Solution 1: Project Management and Resource Planning Solutions**:
+
 ## PMOSuite.com - Project Management and Resource Planning Application
 
 **[PMOSuite.com](http://www.pmosuite.com)** is a flagship project that I have been working on. It's a powerful Project Management and Resource Planning application designed to streamline project workflows and optimize resource allocation. Some key features of PMOSuite.com include:
