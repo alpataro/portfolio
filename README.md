@@ -22,7 +22,7 @@ Feel free to explore these solutions on the website to learn more about the serv
 
 ## alpataro.com -  Custom Website Design and Development
 
-![PMOSuite.com Screenshot](projects/pmosuite/screenshots/marketplace_03.png)
+![alpataro.com Screenshot](projects/custom-website-design-and-development/screenshots/marketplace_03.png)
 
 For more details about  Custom Website Design and Development, click [here](projects/custom-website-design-and-development/README.md).
 
