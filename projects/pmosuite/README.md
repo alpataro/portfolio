@@ -14,6 +14,6 @@
 
 - **Integration**: Seamlessly integrate with other popular project management tools and services.
 
-![PMOSuite.com Screenshot](pmosuite/screenshots/pmosuite_0.png)
+![PMOSuite.com Screenshot](screenshots/pmosuite_0.png)
 
 For more details about PMOSuite.com, visit the [alpataro technology official website](https://alpatarotechnology.com/alpataro.html#pmosuite).
