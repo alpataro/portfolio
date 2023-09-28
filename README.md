@@ -2,6 +2,8 @@
 
 Welcome to my portfolio! Here, you'll find a collection of projects and articles that showcase my work and experiences over the past 20 years in the field. Feel free to explore and learn more about my journey.
 
+## [About Me](about.md)
+
 ## Solutions from Alpataro Technology
 
 Visit my official website **[alpatarotechnology.com](https://www.alpatarotechnology.com)** to explore a range of innovative solutions and services offered by Alpataro Technology, including:
