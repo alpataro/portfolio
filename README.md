@@ -10,7 +10,7 @@ Visit my official website **[alpatarotechnology.com](https://www.alpatarotechnol
 
 Feel free to explore these solutions on the website to learn more about the services and expertise provided by Alpataro Technology.
 
-## PMOSuite.com - Project Management and Resource Planning Application
+## [PMOSuite.com - Project Management and Resource Planning Application](projects/pmosuite/README.md)
 
 ![PMOSuite.com Screenshot](projects/pmosuite/screenshots/pmosuite_0.png)
 
