@@ -33,9 +33,10 @@ For more details about  Custom Website Design and Development, click [here](proj
 ## Other Projects
 
 In addition to the above solutions, you will find various other projects in this repository or as an external link to the project involved me that highlights my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
-
+<!--
 - **IoT**: [IoT Project](projects/iot-project/README.md)
 - **B2B Integration**: [B2B Integration Project](projects/b2b-integration/README.md)
+-->
 - **Loyalty Management System (LMS)**: [Turkish Airlines - Miles and Smiles](https://www.turkishairlines.com/en-int/miles-and-smiles/)
 - **Customer Contact Centre (CRM)**: [Turkish Airlines Customer Contact Center](https://www.turkishairlines.com/en-int/any-questions/customer-relations/feedback/)
 - **Loyalty Management System (LMS)**
