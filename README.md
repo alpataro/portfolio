@@ -34,10 +34,13 @@ For more details about  Custom Website Design and Development, click [here](proj
 
 In addition to the above solutions, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
 
+- **IoT Project**: [IoT Project](projects/iot-project/README.md)
+- **IoT Project**: [IoT Project](projects/iot-project/README.md)
+<!--
 ## Blog
 
 I also share my thoughts and experiences through blog posts and articles. Check out the [blog](blog/) section to read about various topics related to project management, software development, and more.
-
+-->
 ## My Resume
 
 You can download my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
