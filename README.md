@@ -8,7 +8,7 @@ I am a dedicated professional with a passion for project management and software
 
 ## Solutions from Alpataro Technology
 
-Visit my official website **[AlpataroTechnology.com](https://www.alpatarotechnology.com)** to explore a range of innovative solutions and services offered by Alpataro Technology, including:
+Visit my official website **[ALPATARO Technology](https://www.alpatarotechnology.com)** to explore a range of innovative solutions and services offered by Alpataro Technology, including:
 
 - **Solution 1: Project Management and Resource Planning Solutions**: PMOSuite.com
 
