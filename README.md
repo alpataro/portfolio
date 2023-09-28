@@ -28,7 +28,7 @@ For more details about  Custom Website Design and Development, click [here](proj
 
 ## Other Projects
 
-In addition to PMOSuite.com, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
+In addition to the above solutions, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
 
 ## Blog
 
