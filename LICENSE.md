@@ -1,6 +1,6 @@
 # Portfolio Viewing License
 
-Copyright (c) [2023] [Aydin Gunes (ALPATARO)]
+Copyright (c) 2023 Aydin Gunes (ALPATARO)
 
 This software is provided under the Portfolio Viewing License and is intended solely for viewing purposes within the portfolio of ALPATARO. By accessing, using, or viewing this software, you agree to the following terms:
 
