@@ -16,4 +16,8 @@
 
 ![PMOSuite.com Screenshot](screenshots/pmosuite_0.png)
 
+![PMOSuite.com Screenshot](screenshots/pmosuite_1.png)
+
+![PMOSuite.com Screenshot](screenshots/pmosuite_2.png)
+
 For more details about PMOSuite.com, visit the [alpataro technology official website](https://alpatarotechnology.com/alpataro.html#pmosuite).
