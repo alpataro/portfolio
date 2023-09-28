@@ -13,7 +13,9 @@ If you need to get in touch with me for inquiries, collaborations, or any other 
 **Website**: [alpatarotechnology.com](https://alpatarotechnology.com/)
 
 **Phone 1**: [+971 50 960 75 90]
+
 **Phone 2**: [+90 533 208 75 90]
+
 **Phone 3**: [+31 6 43 61 90 80]
 
 **WhatsApp**: [+971 50 960 75 90](https://api.whatsapp.com/send?phone=971509607590&text=Hi%2C%20I%20got%20your%20WhatsApp%20information%20from%20your%20github%20alpataro)
