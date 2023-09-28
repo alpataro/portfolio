@@ -36,7 +36,7 @@ In addition to the above solutions, you will find various other projects in this
 
 - **IoT**: [IoT Project](projects/iot-project/README.md)
 - **B2B Integration**: [B2B Integration Project](projects/b2b-integration/README.md)
-- **Loyalty Management System (LMS)**: [Turkish Airlines Loyalty Management Sysytem](https://www.turkishairlines.com/en-int/miles-and-smiles/)
+- **Loyalty Management System (LMS)**: [Turkish Airlines](https://www.turkishairlines.com/en-int/miles-and-smiles/)
 - **Customer Contact Centre (CRM)**:
 - **Loyalty Management System (LMS)**
 - **Customer Contact Centre (CRM)**
@@ -49,6 +49,15 @@ In addition to the above solutions, you will find various other projects in this
 - **Revamping the Loyalty and CRM systems**
 - **LMS Integration with STAR and SKY Team**
 - **Amadeus LMS and Altea PSS Integration**
+- **Passenger Services System (PSS)**
+- **Online Reservation and Ticketing System for Airlines and Ferry Lines**
+- **Customer Contact Centre (CRM)**
+- **Flight Schedule Planning**
+- **Flight Operation Control Centre**
+- **Slot Coordination**
+- **Revenue Cost Analysis**
+- **Revenue Accounting**
+- **Crew Planning Management**
 
 <!--
 ## Blog
