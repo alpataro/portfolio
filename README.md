@@ -6,25 +6,11 @@ Welcome to my portfolio! Here, you'll find a collection of projects and articles
 
 Visit my official website **[ALPATARO Technology](https://www.alpatarotechnology.com)** to explore a range of innovative solutions and services offered by Alpataro Technology, including:
 
-- **Solution 1: Project Management and Resource Planning Solutions**: PMOSuite.com
+- **Solution 1: Project Management and Resource Planning Solutions**: [PMOSuite.com](projects/pmosuite/README.md).
 
 Feel free to explore these solutions on the website to learn more about the services and expertise provided by Alpataro Technology.
 
 ## PMOSuite.com - Project Management and Resource Planning Application
-
-**[PMOSuite.com](#)** is a flagship project that I have been working on. It's a powerful Project Management and Resource Planning application designed to streamline project workflows and optimize resource allocation. Some key features of PMOSuite.com include:
-
-- **Project Planning**: Plan and organize projects with ease, set milestones, and define project scopes.
-
-- **Resource Management**: Efficiently allocate and manage resources, ensuring optimal utilization.
-
-- **Task Tracking**: Monitor project progress, track tasks, and keep stakeholders informed.
-
-- **Reporting and Analytics**: Generate insightful reports and analytics to make data-driven decisions.
-
-- **Collaboration**: Foster collaboration among team members and stakeholders with real-time communication tools.
-
-- **Integration**: Seamlessly integrate with other popular project management tools and services.
 
 ![PMOSuite.com Screenshot](projects/pmosuite/screenshots/pmosuite_0.png)
 
