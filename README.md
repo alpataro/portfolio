@@ -38,9 +38,7 @@ In addition to the above solutions, you will find various other projects in this
 - **B2B Integration**: [B2B Integration Project](projects/b2b-integration/README.md)
 -->
 - **Loyalty Management System (LMS)**: [Turkish Airlines - Miles and Smiles](https://www.turkishairlines.com/en-int/miles-and-smiles/)
-- **Customer Contact Centre (CRM)**: [Turkish Airlines Customer Contact Center](https://www.turkishairlines.com/en-int/any-questions/customer-relations/feedback/)
-- **Loyalty Management System (LMS)**
-- **Customer Contact Centre (CRM)**
+- **Customer Contact Centre (CRM)**: [Turkish Airlines - Customer Contact Center](https://www.turkishairlines.com/en-int/any-questions/customer-relations/feedback/)
 - **Loyalty Partner Manag. System (STAR, SKY)**
 - **Delayed Baggage Tracking System**
 - **Non-Air Partner Portal for LMS**
@@ -50,9 +48,8 @@ In addition to the above solutions, you will find various other projects in this
 - **Revamping the Loyalty and CRM systems**
 - **LMS Integration with STAR and SKY Team**
 - **Amadeus LMS and Altea PSS Integration**
-- **Passenger Services System (PSS)**
+- **Passenger Services System (PSS)**: [Pegasus Airlines](https://www.flypgs.com/en)
 - **Online Reservation and Ticketing System for Airlines and Ferry Lines**
-- **Customer Contact Centre (CRM)**
 - **Flight Schedule Planning**
 - **Flight Operation Control Centre**
 - **Slot Coordination**
