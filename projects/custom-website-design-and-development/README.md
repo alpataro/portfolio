@@ -1,5 +1,18 @@
 ## Custom Website Design and Development
 
+**[alpataro.com](https://www.alpataro.com/)** is a flagship project that I have been working on. It's a powerful Project Management and Resource Planning application designed to streamline project workflows and optimize resource allocation. Some key features of PMOSuite.com include:
+
+- **Project Planning**: Plan and organize projects with ease, set milestones, and define project scopes.
+
+- **Resource Management**: Efficiently allocate and manage resources, ensuring optimal utilization.
+
+- **Task Tracking**: Monitor project progress, track tasks, and keep stakeholders informed.
+
+- **Reporting and Analytics**: Generate insightful reports and analytics to make data-driven decisions.
+
+- **Collaboration**: Foster collaboration among team members and stakeholders with real-time communication tools.
+
+- **Integration**: Seamlessly integrate with other popular project management tools and services.
 ➢ Designed and developed custom WordPress websites using the Porto, tailoring them to clients' specific needs and brand identities.
 ➢ Created and configured WooCommerce e-commerce solutions, ensuring seamless online shopping experiences.
 ➢ Integrated and customized WordPress plugins to enhance website functionality, including payment gateways, SEO, and forms.
