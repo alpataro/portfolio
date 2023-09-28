@@ -51,4 +51,12 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 - IT Solution & Architecture
 - System Design
 
+## My Resume
+
 You can download my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
+
+## Contact Me
+
+If you have any inquiries or would like to get in touch, please feel free to reach out to me at [aydin.gunes@alpataro.com](mailto:aydin.gunes@alpataro.com).
+If you prefer another method of communication click [here](contact.md). 
+
