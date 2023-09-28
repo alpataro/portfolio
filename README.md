@@ -41,5 +41,6 @@ I also share my thoughts and experiences through blog posts and articles. Check 
 ## Contact Me
 
 If you have any inquiries or would like to get in touch, please feel free to reach out to me at [aydin.gunes@alpataro.com](mailto:aydin.gunes@alpataro.com).
+If you prefer another method of communication click [here](contact.md). 
 
 Thank you for visiting my portfolio, and I hope you find it informative and engaging!
