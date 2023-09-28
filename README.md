@@ -35,8 +35,21 @@ For more details about  Custom Website Design and Development, click [here](proj
 In addition to the above solutions, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
 
 - **IoT**: [IoT Project](projects/iot-project/README.md)
-- **B2B Integration**: [B2B Integration](projects/iot-project/README.md)
-- 
+- **B2B Integration**: [B2B Integration Project](projects/b2b-integration/README.md)
+- **Loyalty Management System (LMS)**:
+- **Customer Contact Centre (CRM)**:
+- **Loyalty Management System (LMS)**
+- **Customer Contact Centre (CRM)**
+- **Loyalty Partner Manag. System (STAR, SKY)**
+- **Delayed Baggage Tracking System**
+- **Non-Air Partner Portal for LMS**
+- **LMS Selling and Payment Gateway Integration**
+- **Digital Transformation of the system to SOA**
+- **LMS Mobile App**
+- **Revamping the Loyalty and CRM systems**
+- **LMS Integration with STAR and SKY Team**
+- **Amadeus LMS and Altea PSS Integration**
+
 <!--
 ## Blog
 
