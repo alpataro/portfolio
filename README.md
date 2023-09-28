@@ -4,15 +4,6 @@ Welcome to my portfolio! Here, you'll find a collection of projects and articles
 
 ## About Me
 
-I am a dedicated professional with a passion for project management and software development. With two decades of experience in various industries, I have successfully delivered a wide range of projects and honed my skills in managing resources efficiently.
-
-
-# My Portfolio
-
-Welcome to my portfolio! Here, you'll find a collection of projects and articles that showcase my work and experiences over the past 20 years in the field. Feel free to explore and learn more about my journey.
-
-## About Me
-
 I am a dedicated professional, an accomplished Software Engineer with over 20 years of hands-on software development experience in enterprise-scale projects and various industries. 
 My technical expertise spans a wide range of front-end and back-end technologies, methodologies, and tools, making me a valuable asset to any organization. 
 I am currently located in Dubai, UAE, and am available immediately for new opportunities in UAE and Europe.
@@ -33,7 +24,7 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 
 - **Founder, IT Professional/Consultant @ Alpataro, Dubai (2021-present)**: I designed and developed an IoT project involving Arduino microcontrollers and sensors, implementing cloud connectivity on AWS, and creating a user-friendly front-end with Angular and Java.
 
-- **Custom Website Design and Development**: I designed and developed custom WordPress websites using the Porto theme, integrated WooCommerce solutions, and optimized website hosting on AWS CloudSail. 
+- **Custom Website Design and Development**: I designed and developed custom WordPress websites using the Porto theme, integrated WooCommerce solutions, and optimized website hosting on AWS CloudSail. Visit my official online store website **[ALPATARO.COM](https://www.alpataro.com)** to explore our online products, solutions and services offered by Alpataro Technology.
 
 - **B2B Integration Project**: I developed and maintained RESTful API integrations with e-commerce platforms, implemented automation, and managed data storage on AWS.
 
@@ -64,7 +55,7 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 - IT Solution & Architecture
 - System Design
 
-Visit my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
+Visit and Download my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
 
 ## Solutions from Alpataro Technology
 
