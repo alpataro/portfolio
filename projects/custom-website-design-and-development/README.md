@@ -56,8 +56,6 @@ This project reflects my commitment to delivering high-quality websites that mee
 
 ![PMOSuite.com Screenshot](screenshots/marketplace_14.png)
 
-![PMOSuite.com Screenshot](screenshots/marketplace_03.png)
-
 ![PMOSuite.com Screenshot](screenshots/marketplace_02.png)
 
 ![PMOSuite.com Screenshot](screenshots/marketplace_05.png)
