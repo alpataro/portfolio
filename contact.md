@@ -4,7 +4,7 @@ If you need to get in touch with me for inquiries, collaborations, or any other 
 
 **Email**: [aydin.gunes@alpataro.com](mailto:aydin.gunes@alpataro.com)
 
-**LinkedIn**: [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/aydingunes/)
+**LinkedIn**: [https://www.linkedin.com/in/aydingunes](https://www.linkedin.com/in/aydingunes/)
 
 **GitHub**: [alpataro](https://github.com/alpataro)
 
