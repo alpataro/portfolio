@@ -28,7 +28,7 @@ Feel free to explore these solutions on the website to learn more about the serv
 
 ![PMOSuite.com Screenshot](projects/pmosuite/screenshots/pmosuite_0.png)
 
-For more details about PMOSuite.com, visit the [alpataro technology official website](https://alpatarotechnology.com/alpataro.html#pmosuite).
+For more details about PMOSuite.com, click [here](projects/pmosuite/README.md).
 
 ## Other Projects
 
