@@ -1,0 +1,32 @@
+/portfolio-repository
+    ├── README.md                  # Main introduction and project overview
+    ├── LICENSE.md                 # License information for your portfolio
+    ├── .gitignore                # Gitignore file to exclude unnecessary files
+    ├── img/                       # Directory for images and screenshots
+    │   ├── project1.png           # Image files for projects
+    │   ├── project2.png
+    │   ├── ...
+    ├── projects/                  # Directory for individual project folders
+    │   ├── project1/              # Project 1 folder
+    │   │   ├── README.md          # Project-specific README
+    │   │   ├── docs/              # Documentation related to this project
+    │   │   ├── src/               # Source code of the project
+    │   │   ├── assets/            # Additional assets for the project (e.g., images)
+    │   │   ├── screenshots/       # Screenshots of the project (if applicable)
+    │   ├── project2/              # Project 2 folder
+    │   │   ├── README.md
+    │   │   ├── docs/
+    │   │   ├── src/
+    │   │   ├── assets/
+    │   │   ├── screenshots/
+    │   ├── ...                    # Repeat this structure for each project
+    ├── blog/                       # Directory for blog posts or articles
+    │   ├── post1.md                # Blog post 1
+    │   ├── post2.md                # Blog post 2
+    │   ├── ...
+    ├── resume/                     # Directory for your resume/CV
+    │   ├── resume.pdf              # Your resume in PDF format
+    ├── contact.md                  # Contact information
+    ├── about.md                    # About you or your career summary
+    ├── index.html                  # Main portfolio webpage (if you have a website)
+    └── index.md                    # Main portfolio markdown file
