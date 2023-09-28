@@ -1,8 +1,10 @@
+# About Me
+
+I am a Highly strategical, success-oriented, hands-on, challenge-driven Information Technologies professional with 20+ years of in-depth knowledge of organizing, maintaining, developing, and implementing information systems and projects to enable organizations to stay competitive. Technically sophisticated and business-savvy management Professional with expertise in the design, delivery, and operations of high-performance technology solutions. Proven track record in driving successful product launches and managing end-to-end product lifecycle, with a strong background in both technical and business domains. “Hands-on” experience in all phases of the information systems life cycle, from initial feasibility analysis and conceptual design through implementation, enhancement, and operations. Excel at translating customer insights into actionable product strategies, leveraging market research and data analysis to identify and capitalize on emerging trends and opportunities. Ability to adapt quickly to changing market dynamics and apply a data-driven approach. Agile mindset to react efficiently and appropriately to rapidly changing business environment. Role modeling the desired leadership behaviors and creating the culture and conditions to empower people to work across organizational boundaries, in multi-disciplinary teams, and in service of strategic priorities.
+
 # My Portfolio
 
 Welcome to my portfolio! Here, you'll find a collection of projects and articles that showcase my work and experiences over the past 20 years in the field. Feel free to explore and learn more about my journey. 
-
-## [Click here](about.md) for more information about me.
 
 ## Solutions from Alpataro Technology
 
