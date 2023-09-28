@@ -24,7 +24,7 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 
 - **Founder, IT Professional/Consultant @ Alpataro, Dubai (2021-present)**: I designed and developed an IoT project involving Arduino microcontrollers and sensors, implementing cloud connectivity on AWS, and creating a user-friendly front-end with Angular and Java.
 
-- **Custom Website Design and Development**: I designed and developed custom WordPress websites using the Porto theme, integrated WooCommerce solutions, and optimized website hosting on AWS CloudSail. Visit my official online store website **[ALPATARO.COM](https://www.alpataro.com)** to explore our online products, solutions and services offered by Alpataro Technology.
+- **Custom Website Design and Development**: I designed and developed custom WordPress websites using the Porto theme, integrated WooCommerce solutions, and optimized website hosting on AWS CloudSail. Visit my official online store website **[alpataro.com](https://www.alpataro.com)** to explore our online products, solutions and services offered by Alpataro Technology.
 
 - **B2B Integration Project**: I developed and maintained RESTful API integrations with e-commerce platforms, implemented automation, and managed data storage on AWS.
 
