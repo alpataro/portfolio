@@ -34,8 +34,9 @@ For more details about  Custom Website Design and Development, click [here](proj
 
 In addition to the above solutions, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
 
-- **IoT Project**: [IoT Project](projects/iot-project/README.md)
-- **IoT Project**: [IoT Project](projects/iot-project/README.md)
+- **IoT**: [IoT Project](projects/iot-project/README.md)
+- **B2B Integration**: [B2B Integration](projects/iot-project/README.md)
+- 
 <!--
 ## Blog
 
