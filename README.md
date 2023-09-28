@@ -1,6 +1,8 @@
 # My Portfolio
 
-Welcome to my portfolio! Here, you'll find a collection of projects and articles that showcase my work and experiences over the past 20 years in the field. Feel free to explore and learn more about my journey. Click [here](about.md) for more information about me.
+Welcome to my portfolio! Here, you'll find a collection of projects and articles that showcase my work and experiences over the past 20 years in the field. Feel free to explore and learn more about my journey. 
+
+#Click [here](about.md) for more information about me.
 
 ## Solutions from Alpataro Technology
 
