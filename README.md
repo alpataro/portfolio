@@ -22,7 +22,7 @@ I am a dedicated professional with a passion for project management and software
 
 - **Integration**: Seamlessly integrate with other popular project management tools and services.
 
-![PMOSuite.com Screenshot](img/pmosuite-screenshot.png)
+![PMOSuite.com Screenshot](projects/pmosuite/screenshots/pmosuite_0.png)
 
 For more details about PMOSuite.com, visit the [official website](https://www.pmosuite.com).
 
