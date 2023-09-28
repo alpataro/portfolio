@@ -16,6 +16,16 @@ Feel free to explore these solutions on the website to learn more about the serv
 
 For more details about PMOSuite.com, click [here](projects/pmosuite/README.md).
 
+- **Solution 2: Custom Website Design and Development**: [alpataro.com](projects/custom-website-design-and-development/README.md)
+
+Feel free to explore these solutions on the website to learn more about the services and expertise provided by Alpataro Technology.
+
+## alpataro.com -  Custom Website Design and Development
+
+![PMOSuite.com Screenshot](projects/pmosuite/screenshots/marketplace_03.png)
+
+For more details about  Custom Website Design and Development, click [here](projects/custom-website-design-and-development/README.md).
+
 ## Other Projects
 
 In addition to PMOSuite.com, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
