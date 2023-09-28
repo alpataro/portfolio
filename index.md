@@ -9,7 +9,7 @@ Hello, I'm Aydin Gunes, a Full Stack Software Engineer with over 20 years of exp
 
 ## About Me
 
-I am passionate about software development, project management, and technology. My expertise spans a wide range of technologies and methodologies, making me a valuable asset to any organization.
+I am passionate about software development, project management, and technology. My expertise spans a wide range of technologies and methodologies, making me a valuable asset to any organization. For further details, click [here](about.md).
 <!--
 ## Projects
 
