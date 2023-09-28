@@ -6,7 +6,7 @@ Welcome to my portfolio! Here, you'll find a collection of projects and articles
 
 Visit my official website **[ALPATARO Technology](https://www.alpatarotechnology.com)** to explore a range of innovative solutions and services offered by Alpataro Technology, including:
 
-- **Solution 1: Project Management and Resource Planning Solutions**: [PMOSuite.com](projects/pmosuite/README.md).
+- **Solution 1: Project Management and Resource Planning Solutions**: [PMOSuite.com](projects/pmosuite/README.md)
 
 Feel free to explore these solutions on the website to learn more about the services and expertise provided by Alpataro Technology.
 
