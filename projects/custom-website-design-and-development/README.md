@@ -28,14 +28,14 @@
 
 ![PMOSuite.com Screenshot](screenshots/marketplace_09.png)
 
-![PMOSuite.com Screenshot](screenshots/marketplace_010.png)
+![PMOSuite.com Screenshot](screenshots/marketplace_10.png)
 
-![PMOSuite.com Screenshot](screenshots/marketplace_011.png)
+![PMOSuite.com Screenshot](screenshots/marketplace_11.png)
 
-![PMOSuite.com Screenshot](screenshots/marketplace_012.png)
+![PMOSuite.com Screenshot](screenshots/marketplace_12.png)
 
-![PMOSuite.com Screenshot](screenshots/marketplace_013.png)
+![PMOSuite.com Screenshot](screenshots/marketplace_13.png)
 
-![PMOSuite.com Screenshot](screenshots/marketplace_014.png)
+![PMOSuite.com Screenshot](screenshots/marketplace_14.png)
 
 For more details about Custom Website Design and Development, visit the [Alpataro Technology official website](https://alpatarotechnology.com/alpataro.html#website-design).
