@@ -14,6 +14,6 @@ If you need to get in touch with me for inquiries, collaborations, or any other 
 
 **Phone**: [+971 50 960 75 90]
 
-**WhatsApp**: https://api.whatsapp.com/send?phone=971509607590&text=Hi%2C%20I%20got%20your%20WhatsApp%20information%20from%20your%20github%20alpataro
+**WhatsApp**: [+971 50 960 75 90](https://api.whatsapp.com/send?phone=971509607590&text=Hi%2C%20I%20got%20your%20WhatsApp%20information%20from%20your%20github%20alpataro)
 
 I'm typically responsive to emails and messages on LinkedIn and GitHub. If you prefer another method of communication, please don't hesitate to use the contact details provided above. I look forward to hearing from you!
