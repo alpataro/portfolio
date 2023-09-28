@@ -55,7 +55,7 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 - IT Solution & Architecture
 - System Design
 
-Visit and Download my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
+You can download my **[Resume](resume/AydinGunes_Resume.pdf)** to explore more about me.
 
 ## Solutions from Alpataro Technology
 
@@ -85,7 +85,7 @@ Feel free to explore these solutions on the website to learn more about the serv
 
 For more details about PMOSuite.com, visit the [alpataro technology official website](https://alpatarotechnology.com/alpataro.html#pmosuite).
 
-## Projects
+## Other Projects
 
 In addition to PMOSuite.com, you will find various other projects in this repository that highlight my expertise in different domains. Feel free to explore them and check out their respective README files for more information.
 
