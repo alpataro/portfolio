@@ -7,14 +7,14 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 ### Technical Skills
 
 - **Front End**: JSF (PrimeFACES), Angular (PrimeNG), React (PrimeREACT), Vue (PrimeVUE), JavaScript (ES5, ES6, ES7), TypeScript, HTML5, CSS3, Bootstrap, JQuery, WordPress (WooCommerce, Porto)
-- **Back End**: Java, Spring Framework, Spring Boot, Spring Security, Spring Data, Oracle JDBC, PL/SQL, TALEND (ETL), Eclipse, Maven
+- **Back End**: Java, Spring Framework, Spring Boot, Spring Security, Spring Data, Apache Camel, Oracle JDBC, PL/SQL, TALEND (ETL), Eclipse, Maven
 - **Unit / e2e Test**: JUnit, Jenkins, Selenium, Angular
 - **Methodologies**: Agile with SAFe, Scrum, Kanban, Lean, XP, Waterfall (Jira, Trello)
 - **Business Platforms**: CRM, LMS, ERP, CMS, MRP, Core Airline, Loyalty Apps, Salesforce
 - **DevOps**: Git, GitHub, SVN, Containerization, and Deployment (Docker and Kubernetes)
 - **Web Services**: Soap, RESTful, API Design, AWS Services
 - **Database**: Oracle DB, Amazon S3, MySQL, PostgreSQL, NoSQL, MongoDB, DynamoDB
-- **Cloud**: AWS (AI, ML, IoT Core, RDS, S3, DynamoDB, Lambda, Kinesis, SNS, EC2, VPC, Route 53, CloudWatch, CloudFormation, Lightsail, Apache...)
+- **Cloud**: AWS (AWS Elastic Beanstalk, AWS CodePipeLine, AWS CodeBuild, SQS, IAM, CloudWatch, IoT Core, RDS, S3, DynamoDB, Lambda, Kinesis, SNS, EC2, VPC, Route 53, CloudFormation, Lightsail, Apache...)
 
 ### Professional Experience Highlights
 
