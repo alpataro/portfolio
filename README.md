@@ -80,8 +80,7 @@ In addition to the above solutions, you will find various other projects in this
 
 ## My Resume
 
-You can download my short **[RESUME](resume/AydinGunes_Resume.pdf)** to explore more about me.
-You can download my more detailed **[RESUME](resume/AydinGunes_Resume_2P.pdf)** to explore more about me.
+You can download my short **[RESUME](resume/AydinGunes_Resume_2P.pdf)** or You can download my more detailed **[RESUME](resume/AydinGunes_Resume.pdf)** to explore more about me.
 
 ## Contact
 
