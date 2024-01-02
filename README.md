@@ -54,7 +54,7 @@ In addition to the above solutions, you will find various other projects in this
 - **LMS Integration with STAR and SKY Team**
 - **Amadeus LMS and Altea PSS Integration**
 
-## [Pegasus Airlines] (https://flypgs.com/) / [Hitit CS](https://hitit.com/) Solutions and Services Projects
+## [Pegasus Airlines](https://flypgs.com/) / [Hitit CS](https://hitit.com/) Solutions and Services Projects
 
 ### Passenger Services System
 
