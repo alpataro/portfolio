@@ -2,7 +2,7 @@
 
 I am a dedicated professional, an accomplished Software Engineer with over 20 years of hands-on software development experience in enterprise-scale projects and various industries. 
 My technical expertise spans a wide range of front-end and back-end technologies, methodologies, and tools, making me a valuable asset to any organization. 
-I am currently located in Dubai, UAE, and am available immediately for new opportunities in UAE and Europe.
+I am currently located in Dubai, UAE, and am looking for new opportunities to grow the business.
 
 ### Technical Skills
 
