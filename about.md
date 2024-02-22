@@ -53,7 +53,7 @@ I am currently located in Dubai, UAE, and am available immediately for new oppor
 
 ## My Resume
 
-You can download my **[RESUME](resume/AydinGunes_Resume_2P.pdf)** to explore more about me.
+You can download my **[RESUME](resume/AydinGunes_Resume.pdf)** to explore more about me.
 
 ## Contact Me
 
