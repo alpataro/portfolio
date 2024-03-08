@@ -78,10 +78,6 @@ In addition to the above solutions, you will find various other projects in this
 - **Cost Accounting (CA)** : [Hitit CS - Crane CA](https://hitit.com/solutions-and-services/accounting/cost-accounting)
 - **Business Performance Index (BPI)** : [Hitit CS - Crane BPI](https://hitit.com/solutions-and-services/accounting/business-performance-index)
 
-## My Resume
-
-You can download my **[RESUME](resume/AydinGunes_Resume.pdf)** to explore more about me.
-
 ## Contact
 
 If you need to get in touch with me for inquiries, collaborations, or any other matter, please feel free to reach out using the following contact information:
